@@ -23,7 +23,7 @@ The architecture consists of three sequential stages:
 * **Deduplication:** Implemented **SimHash** (n-grams, distance $\le$ 3 bits) to remove fuzzy duplicates and prevent data leakage between train/validation sets.
 
 ![Class Distribution](results/class_distribution.png)
-Fig 1. Impact of Quota-Based Sampling. Left: Original distribution (Log Scale) showing extreme imbalance. Right: Balanced distribution (Linear Scale) used for training.*
+*Fig 1. Impact of Quota-Based Sampling. Left: Original distribution (Log Scale) showing extreme imbalance. Right: Balanced distribution (Linear Scale) used for training.*
 
 ### 2. Density-Based Filtering (The Core Innovation)
 *Hypothesis:* In short texts (logs), noisy labels harm model performance more than lack of data.
