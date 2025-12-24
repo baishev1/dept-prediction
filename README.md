@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Research%20Implementation-success)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Tech](https://img.shields.io/badge/Stack-XGBoost_|_XLM--R_|_HDBSCAN-orange)
+![Task](https://img.shields.io/badge/Task-Multiclass_Classification-red)
 
 ## Abstract
 
