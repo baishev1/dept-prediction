@@ -12,8 +12,6 @@ Instead of synthetic data generation (SMOTE), which was found to propagate noise
 
 **Key Achievement:** The pipeline improved Top-3 Accuracy to **97.4%** on production data, enabling automated "User Hints" with minimal error rate.
 
----
-
 ## Methodology & Architecture
 
 The architecture consists of three sequential stages:
